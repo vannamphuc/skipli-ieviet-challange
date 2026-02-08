@@ -7,7 +7,7 @@
 
 ### Board View
 ![Board View](./screenshots/board.png)
-*Kanban-style board with drag-and-drop functionality*
+*Board view witb drag-and-drop functionality*
 
 ### Task Detail Modal
 ![Task Detail](./screenshots/task-detail.png)
